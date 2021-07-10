@@ -1,0 +1,26 @@
+.infoBox{
+    flex: 1;
+    background-color: rgb(31, 31, 31) !important;
+}
+
+.infoBox:not(:last-child){
+    margin-right: 15px;
+}
+
+.infoBox__title{
+    color: rgb(219, 219, 219) !important;
+}
+
+.infoBox__cases{
+    color: rgb(194, 0, 0);
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.infoBox__total{
+    color: rgb(0, 168, 168) !important;
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-top: 15px !important;
+}
