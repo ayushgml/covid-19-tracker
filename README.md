@@ -1,4 +1,4 @@
-This is a COVID-19 Tracker web application which is built using ReactJS. Currently, it has features like Today New Cases, Recovered, Deaths and also the total number os cases, recovered, deaths. *More features are under construction!*
+This is a COVID-19 Tracker web application which is built using ReactJS. Currently, it has features like Today New Cases, Recovered, Deaths and also the total number os cases, recovered, deaths.
 
 Also, this is my first API based project.
 
